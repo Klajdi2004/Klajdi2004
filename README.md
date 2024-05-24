@@ -19,6 +19,13 @@ I'm a dedicated front-end developer with a keen interest in creating visually ap
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klajdi2004&theme=nightowl&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klajdi2004&theme=nightowl&hide_border=false&layout=compact)
 
+## ✍️ Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+
+## 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+![Visitor Count](https://visitcount.itsvg.in/api?id=Klajdi2004&icon=2&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
