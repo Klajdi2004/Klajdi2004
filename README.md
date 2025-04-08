@@ -1,15 +1,17 @@
-# Hi, I'm Klajdi Dhana 👋
+# Hi 👋 I'm Klajdi Dhana!
 
-## About Me
-I'm a dedicated front-end developer with a keen interest in creating visually appealing and user-friendly web applications. My journey in web development started with a deep appreciation for the blend of technology and design. I have honed my skills in HTML, CSS, and JavaScript, and continuously explore frameworks like React to bring my projects to life.
+🚀 I'm a web developer passionate about crafting responsive and interactive web applications.
 
-## 🔥 Skills
-- **Languages:** C, Python, JavaScript
-- **Front-End Development:** HTML, CSS, Bootstrap, JavaScript, React, TypeScript, Next.js, Tailwind CSS
-- **Back-End Development:** Flask, MySQL, SQLite
-- **Tools & Platforms:** Linux, Git, GitHub, VS Code, Adobe, Canva, Figma
-- **Soft Skills:** Teamwork, Time Management, Effective Communication, Critical Thinking
+💻 Technologies I work with:
+- Front-End: HTML5, CSS3, Bootstrap, JavaScript, React.js, TypeScript, Next.js
+- Back-End: Python, REST APIs
+- Tools: Git, GitHub, Linux, Shell Scripting
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klajdi-dhana-42715b255/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23428486) 
+🛠️ Projects:
+- 🌍 Travel App — Built with React.js and REST APIs
+- ☀️ Weather App — Fetching live weather data and building responsive UIs
+- 📝 To-Do App — User-friendly task management
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/klajdi-dhana/) | [GitHub](https://github.com/Klajdi2004)
+
+🔥 Always learning, always building!
